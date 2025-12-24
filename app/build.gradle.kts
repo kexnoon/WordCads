@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "de.telma.wordcads"
+    namespace = "de.telma.wordcards"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "de.telma.wordcads"
+        applicationId = "de.telma.wordcards"
         minSdk = 27
         targetSdk = 36
         versionCode = 1
