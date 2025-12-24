@@ -2,7 +2,6 @@ package de.telma.wordcads.data.repository
 
 import de.telma.wordcads.data.local.dao.DictionaryDao
 import de.telma.wordcads.data.local.entity.Dictionary
-import de.telma.wordcads.data.repository.DictionariesRepository
 import kotlinx.coroutines.flow.Flow
 
 class DictionariesRepositoryImpl(
